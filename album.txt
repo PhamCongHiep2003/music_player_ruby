@@ -1,0 +1,41 @@
+4
+Neil Diamond
+Greatest Hits
+2
+3
+Crackling Rose
+media/Symphony No.6 (1st movement).ogg
+Soolaimon
+media/sample2.ogg
+Sweet Caroline
+media/sample3.ogg
+Bruno Mars
+Doo Wops & Hooligans
+1
+3
+Talking to the moon
+media/sample4.ogg
+The Lazy Song
+media/Symphony No.6 (1st movement).ogg
+Grenade
+media/sample2.ogg
+Mohombi
+Movemeant
+1
+3
+Coconut Tree
+media/sample3.ogg
+Bumpy Ride
+media/sample4.ogg
+Say Jambo
+media/Symphony No.6 (1st movement).ogg
+Akon
+Freedom
+1
+3
+Holla Holla
+media/sample2.ogg
+Right Now
+media/sample3.ogg
+Freedom
+media/sample4.ogg
